@@ -12,6 +12,7 @@ terraform {
       name = "TerraformCI"
     }
   }
+  
 }
 
 provider "azurerm" {
